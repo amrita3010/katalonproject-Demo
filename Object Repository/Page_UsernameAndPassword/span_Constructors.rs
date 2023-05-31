@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Constructors</name>
+   <tag></tag>
+   <elementGuidId>24ff0125-f842-485a-82a1-6c830c604129</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor Summary'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>caption > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a98d7960-5ade-44f4-a0a7-c06b37b3e916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Constructors</value>
+      <webElementGuid>8d173a8c-f3c7-48f8-9b2c-6d91d209d779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;summary&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/section[1]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/table[@class=&quot;memberSummary&quot;]/caption[1]/span[1]</value>
+      <webElementGuid>2d36f429-ea27-4637-bfd7-22aa2d5c96a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_UsernameAndPassword/iframe_classFrame</value>
+      <webElementGuid>4b83fa71-1a7a-4a54-8c82-d2a10f632e97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor Summary'])[1]/following::span[1]</value>
+      <webElementGuid>604461f9-889a-40aa-b8a0-55f0844e3c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor'])[1]/preceding::span[2]</value>
+      <webElementGuid>d395a2bc-9263-47a3-8a6e-25400ef2e728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[2]</value>
+      <webElementGuid>8995aff1-71df-4b5e-8338-6f57502e80b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Constructors']/parent::*</value>
+      <webElementGuid>d8c3ddcd-8731-48d4-8810-1edeb1ede0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//caption/span</value>
+      <webElementGuid>1475450e-adbc-4eca-ab28-027e2d3088a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Constructors' or . = 'Constructors')]</value>
+      <webElementGuid>0049c159-31f7-4c3f-8604-1f3694ffad95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
