@@ -25,11 +25,4 @@
       <testCaseId>Test Cases/Test04</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>02efa43d-1b7b-4e63-b655-d5d7703a004d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Test05</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
